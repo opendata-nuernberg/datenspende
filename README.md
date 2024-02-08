@@ -4,11 +4,16 @@
 
 Unser Vorhaben ist es, eine Datenspende-App zu entwickeln, die es ermöglicht, die lokale Infrastruktur und Umweltprobleme in Nürnberg sichtbar zu machen. Konkret suchen wir nach Softwareentwickler:innen für die Umsetzung, die bereit sind, etwa 200-300 Stunden zu investieren. Eine Förderung wäre äußerst hilfreich, denn wir legen auch Wert auf eine langfristige Strategie.
 
-Die Ziele unseres Projekts umfassen:
+Die langfristigen Ziele unseres Projekts umfassen:
 - Infrastruktur- und Umweltprobleme sichtbar machen.
 - Crowdsourcing von unvollständigen Datensätzen und Kategorien.
 - Die Datenlage von OpenStreetMap (OSM) gamifiziert erweitern.
 - Digital Literacy fördern, indem technische Funktionen, wie beispielsweise Gamifizierung, transparent gemacht werden.
+
+Die ersten Schritte: 
+- Am 29. April 2022 wurde über [Frag den Staat](https://fragdenstaat.de/anfrage/baumkataster-der-stadt-nurnberg/) eine Anfrage für ein Baumkataster gestellt. Bisher wurde kein entsprechender Datensatz zur Verfügung gestellt. 
+- OpenData Heilbronn hat die [KastanienApp](https://github.com/opendata-heilbronn/kastanien-app-ios) entwickelt. Über die App kann man alle Kastanienbäume in der Umgebung von Berlin, Bonn, Frankfurt, Hamburg und Heilbronn angezeigt werden.
+- Über die Datenspende-App könnten wir ein eigenes offenes Baumkataster aufbauen um so die Kastanien-App auch für die Region Rund um Nürnberg anzubieten.
 
 ### Zielgruppe:
 
