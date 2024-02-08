@@ -92,7 +92,7 @@ Die Titelseite der App soll so minimalistisch wie möglich gestaltet sein, mit a
 
 Die drei Linien führen zu der Übersich mit: Einstellung, Profil, Datenschutz, Netiquette, etc. 
 
-![mockup title](img/title_page.jpg)
+![mockup title](img/titel_page.jpg)
 
 Die Übersicht von der Datensatz-Meldeseite soll so minimalistisch und intuitiv wie möglich gehalten werden. Z.B. nach dem Vorbild von eBay Kleinanzeigen. Oben links ist die Foto-fläche, mit Titel und Kategorie zum auswählen daneben. 
 Ein freies Feld ermöglichst die weitere Beschreibung von dem Datensatz. Die wichtigsten Infos, z.B. bezüglich Stand der Fahrradpumpe sollte in den Tags ausgewählt werden. 
