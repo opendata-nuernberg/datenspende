@@ -78,4 +78,22 @@ Weitere Gedanken:
 - Eine der Aufgaben könnte auch Fragen zu den Community Regeln zu beantworten. 
 - Es könnte ein Leaderboard angezeigt werden, in dem die aktivsten Mitglieder der Region angezeigt werden.
 
+## Screens Petra
 
+![mockup functions](img/app_functions.jpg)
+
+Die Titelseite der App soll so minimalistisch wie möglich gestaltet sein, mit ausschließlich 4 Flächen, mit denen man interagieren kann. 
+1.	Die Ansicht der Karte, die den Großteil des Bildschirms einnimmt, im Hintergrund. Hier können bereits gemeldete Datensätze mit Pins markiert werden.
+2.	Drei Linien, die zu den Einstellungen und weiteren Funktionen führen in die oberen rechten Ecke.
+3.	Ganz oben ein Suchfeld, zur recherche von bereits gemeldeten Informationen. Wo ist die nächste Fahrradpumpe? Wo die nächste Toilette? 
+4.	Das „tracking“-Feld am unteren Rand des Monitors soll das schnelle notieren und hochladen von neuen und geänderten Informationen ermöglichen.
+
+![mockup tracking](img/tracking_screen.jpg)
+
+Die drei Linien führen zu der Übersich mit: Einstellung, Profil, Datenschutz, Netiquette, etc. 
+
+![mockup title](img/title_page.jpg)
+
+Die Übersicht von der Datensatz-Meldeseite soll so minimalistisch und intuitiv wie möglich gehalten werden. Z.B. nach dem Vorbild von eBay Kleinanzeigen. Oben links ist die Foto-fläche, mit Titel und Kategorie zum auswählen daneben. 
+Ein freies Feld ermöglichst die weitere Beschreibung von dem Datensatz. Die wichtigsten Infos, z.B. bezüglich Stand der Fahrradpumpe sollte in den Tags ausgewählt werden. 
+Die Netiquette ist uns sehr wichtig und wir möchten regelmäßig an deren Einhaltung erinnern. Ist das Kreuz in diesem Kästchen gesetzt, kann der Datensatz mit dem Button am unteren Bildschirmrand hochgeladen werden.
