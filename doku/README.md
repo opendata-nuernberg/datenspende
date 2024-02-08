@@ -69,7 +69,7 @@ verifizierbar sind.
 Über die Zeit könnten die Kategorien der Aufgaben erweitert werden.
 
 Mögliche Kategorien könnten sein: 
-- Bäume (Baumkataster), Obstbäume (Mundraub)
+- Bäume (Baumkataster), Obstbäume (Mundraub), Kastanienbäume ([Sammel-App](https://apps.apple.com/de/app/kastanien-app/id1033541954))
 - Öffentlich zugängliche Fahrradpumpen oder Fahrrad Reparaturstation
 
 
