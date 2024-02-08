@@ -11,9 +11,9 @@ Die langfristigen Ziele unseres Projekts umfassen:
 - Digital Literacy fördern, indem technische Funktionen, wie beispielsweise Gamifizierung, transparent gemacht werden.
 
 Die ersten Schritte: 
-- Am 29. April 2022 wurde über [Frag den Staat](https://fragdenstaat.de/anfrage/baumkataster-der-stadt-nurnberg/) eine Anfrage für ein Baumkataster gestellt. Bisher wurde kein entsprechender Datensatz zur Verfügung gestellt. 
-- OpenData Heilbronn hat die [KastanienApp](https://github.com/opendata-heilbronn/kastanien-app-ios) entwickelt. Über die App kann man alle Kastanienbäume in der Umgebung von Berlin, Bonn, Frankfurt, Hamburg und Heilbronn angezeigt werden.
-- Über die Datenspende-App könnten wir ein eigenes offenes Baumkataster aufbauen um so die Kastanien-App auch für die Region Rund um Nürnberg anzubieten.
+- Am 29. April 2022 wurde über [Frag den Staat](https://fragdenstaat.de/anfrage/baumkataster-der-stadt-nurnberg/) eine Anfrage an die Stadtverwaltung Nürnberg zur Veröffentlichung eines Baumkataster gestellt. Bisher steht kein entsprechender Datensatz zur Verfügung. 
+- OpenData Heilbronn hat die [KastanienApp](https://github.com/opendata-heilbronn/kastanien-app-ios) entwickelt. Über die App kann man Kastanienbäume in der Umgebung von Berlin, Bonn, Frankfurt, Hamburg und Heilbronn finden.
+- Mit der Datenspende-App könnten wir ein eigenes offenes Baumkataster aufbauen um so die Kastanien-App auch für Nürnberg anzubieten.
 
 ### Zielgruppe:
 
